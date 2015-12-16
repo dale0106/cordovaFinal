@@ -1,0 +1,95 @@
+
+#header{
+
+display: block;
+height: auto;
+}
+
+
+.pls{
+
+display: block;
+
+ 
+
+
+}
+
+#deletebtn{
+    
+    display: block;
+    width: 10%;
+    
+background-color: #FFE65A;
+}
+
+
+
+#addbtn{
+
+    display: block;
+    width: 10%;
+    padding:none;
+    
+}
+
+
+#input{
+display: block;
+width: 20%;
+
+}
+
+#text{
+
+}
+
+#checkbox{
+
+    padding: 5px;
+}
+
+#li{
+
+}
+
+#listBox{
+
+    display: block;
+}
+
+p{
+display: block;
+}
+
+
+#listbox li{
+
+padding: 5px;
+}
+
+#task{
+display: inline;
+}
+
+.listing{
+
+border: 2px solid black;
+display: block;
+padding-left: 20px;
+}
+
+
+.del{
+ background-color: #FFE65A;
+
+}
+
+#container{
+    display:block;
+    border: 2px solid black;
+
+}
+
+
+
